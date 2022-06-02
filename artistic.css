@@ -1,0 +1,281 @@
+#ph{
+    margin-top: -38px;
+    margin-left: 830px;
+}
+#fi{
+    margin-top: -16px;
+    margin-left: 957px;
+}
+#bac{
+    width: 100%;
+    background-color: antiquewhite;
+}
+#td{
+    text-decoration: none;
+    margin-top: 10px;
+}
+#xx{
+    padding-top: 12px;
+}
+#home{
+    font-size: x-large;
+    width: 100%;
+    /* float: left; */
+    /* padding: 10px 10px; */
+    margin-top: -50px;
+    margin-left: 240px;
+    /* justify-content: space-evenly; */
+}
+#tdc{
+    text-decoration: none;
+    color: gray;
+}
+#BUT{
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    
+}
+#BUT:hover{
+    background-color: white;
+    color: purple;
+}
+#abu{
+    width: 100%;
+    height: 500px;
+    background-image: url(./Images/homeimage.jpg);
+    background-size: cover;
+}
+#heading{
+    color: white;
+    margin-left: 206px;
+    padding-top: 112px;
+}
+#par{
+    color: white;
+    margin-left: 206px;
+    margin-top: 60px;
+}
+#im{
+    margin-left: 720px;
+    margin-top: -238px;
+    vertical-align: middle;
+}
+#bb{
+    background-color: black;
+    font-size: x-large;
+    color: white;
+    margin-top: -1px;
+    margin-left: 206px;
+}
+#bb:hover{
+    background-color: white;
+    color: black;
+}
+.kunju{
+    width: 100%;
+    background-color: rgb(236, 234, 229);
+}
+
+#ab{
+    text-align: center;
+    color: purple;
+}
+#para{
+    text-align: center;
+}
+#a1{
+    margin-top: -383px;
+    margin-left: 740px;
+}
+#a2{
+    border-radius: 40px;
+    background-color: white;
+    color: purple;
+    font-size: large;
+    margin-left: 736px;
+    margin-top: 50px;
+}
+#a2:hover{
+    background-color: purple;
+    color: white;
+    
+}
+#services{
+    text-align: center;
+    margin-top: 100px;
+    color: purple;
+}
+#our{
+    text-align: center;
+}
+.col{
+    width: 21%;
+    /* height: 500px; */
+    /* background-color: aquamarine; */
+    float: left;
+    padding: 10px;
+    border: 0.001px solid gray;
+    text-align: center;
+    
+}.row{
+    padding: 50px;
+    color: purple;
+}
+.latest{
+    margin-top: 667px;
+    text-align: center;
+    background-color: lightgray;
+    color: purple;
+    height: 500px;
+}
+.view{
+    height: 300px;
+    width: 300px;
+    background-image: url(./Images/lt1.jpg);
+    background-size: cover;
+    float: left;
+    margin-left: 250px;
+    border-radius: 40px;
+}
+.view1{
+    height: 300px;
+    width: 300px;
+    background-image: url(./Images/lt2.jpg);
+    background-size: cover;
+    float: left;
+    margin-left: 250px;
+    border-radius: 40px;
+}
+.pro{
+    background-color: white;
+    color: purple;
+    border-radius: 40px;
+    height: 30px;
+    margin-top: 250px;
+}
+.pro:hover{
+    background-color: purple;
+    color: white;
+}
+.pro1{
+    background-color: purple;
+    color: white;
+    border-radius: 40px;
+    height: 50px;
+    width: 150px;
+    margin-top: 350px;
+    margin-left: -1058px;
+}
+.pro1:hover:hover{
+    background-color: white;
+    color: purple;
+}
+
+.kavya{
+    height: 600px;
+    width: 500px;
+    box-shadow: 5px 10px;
+    background-color:  rgb(236, 234, 229);
+    margin-left: 400px;
+    padding: 30px;
+    
+}
+.get{
+    width: 100%;
+    height: 250px;
+    background-image: url(./Images/artimg.jpg);
+    background-size: cover;
+    background-color: plum;
+    text-align: center;
+    padding-top: 70px;
+    margin-top: 100px;
+}
+.in{
+    color: white;
+}
+.ty{
+    border: white solid 0.001px;
+    background: transparent;
+    font-size: larger;
+    height: 30px;
+    width: 300px;
+}
+.but3{
+    background-color: purple;
+    color: white;
+    font-size: larger;
+    margin-left: 60px;
+    padding: 20px;
+    width: 150px;
+    border-radius: 40px;
+}
+.but3:hover{
+    background-color: white;
+    color: purple;
+}
+.vij{
+    width: 100%;
+    background-color: rgb(58, 54, 54);
+    color: white;
+}
+.last{
+    float: left;
+    width: 18%;
+    height: 150px;
+    padding: 104.9px;
+    background-color: rgb(58, 54, 54);
+    color: white;
+    
+}
+.addr{
+    text-align: right;
+}
+.fol{
+    text-align: center;
+}
+.color{
+    color: white;
+}
+.lbut{
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    height: 30px;
+    width: 200px;
+    margin-left: 15px;
+}
+.lbut:hover{
+    background-color: purple;
+    color: white;
+}
+.logo{
+    margin-left: 150px;
+    height: 50px;
+    width: 150px;
+}
+.position{
+    height: 90px;
+    background-color: white;
+    position: sticky;
+    top: 0px;
+    padding-top: 20px;
+    /* border: lightgrey solid; */
+    /* transition: all .3s ease-in; */
+    box-sizing: border-box;
+}
+.box{
+    height: 50px;
+    width: 300px;
+    position: fixed;
+    left: 75%;
+    top: 700px;
+    background-color: purple;
+    color: white;
+    /* margin-left: 900px;
+    margin-top: 400px; */
+}
+#textt{
+    color: white;
+    padding-left: 10px;
+}
